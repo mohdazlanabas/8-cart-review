@@ -1,0 +1,42 @@
+{
+    "MENU_1": [
+      {
+        "id": 1,
+        "name": "ITEM_1",
+        "price": 1299,
+        "imgName": "Album 1.png"
+      },
+      {
+        "id": 2,
+        "name": "ITEM_2",
+        "price": 1499,
+        "imgName": "Album 2.png"
+      },
+      {
+        "id": 3,
+        "name": "ITEM_3",
+        "price": 999,
+        "imgName": "Album 3.png"
+      },
+      {
+        "id": 4,
+        "name": "ITEM_4",
+        "price": 1999,
+        "imgName": "Album 4.png"
+      }
+    ],
+    "MENU_2": [
+      {
+        "id": 5,
+        "name": "ITEM_A",
+        "price": 1999,
+        "imgName": "Shirt.png"
+      },
+      {
+        "id": 6,
+        "name": "ITEM_B",
+        "price": 699,
+        "imgName": "Cofee.png"
+      }
+    ]
+  }

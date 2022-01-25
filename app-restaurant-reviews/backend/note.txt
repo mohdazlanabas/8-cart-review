@@ -1,0 +1,16 @@
+BACKEND SETUP- EXPRESS
+
+node -v
+npm init -y
+npm install express
+npm install cors
+npm install mongoldb
+npm install dotned
+npm install -g nodemon
+
+FRONT END SETUP
+npx create-react-app <app name>
+npm install bootstrap
+npm install react-router-dom
+
+..
